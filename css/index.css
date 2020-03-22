@@ -15,21 +15,23 @@
     background-color: black;
 }
 .first{
-    height: 77vh;
+    /* height: 77vh; */
     background: #000000;  
-    padding-left: 150px;
-    display: flex;
-	align-items: center;
-	justify-content: center;
+
     
 }
 .header-main{
     font-family:'Montserrat', sans-serif; 
     color: white;
-    font-size: 60px;
+    
 }
 .header-image{
-    height: 450px;
+	height: 450px;
+	
+}
+.first-image{
+	padding-bottom: 30px;
+	
 }
 .nav-item{
     font-family: 'Montserrat',sans-serif;
