@@ -23,22 +23,25 @@
     
 }
 .header-image{
-	height: 450px;
+	height: 460px;
 	
 }
 .first-image{
-	padding-bottom: 30px;
-	margin: 20px;
+	padding-bottom: 40px;
+	margin: 25px;
 	
 }
 .nav-item{
     font-family: 'Montserrat',sans-serif;
     font-size: 20px;
-    color: wheat;
+	color: wheat;
+	padding: 5px;
 }
 .navbar a{
-    color: #8e44ad;
+	color: #8e44ad;
+
 }
+
 .navbar ul{
     margin-bottom: 40px;
     padding-right: 100px;
@@ -91,3 +94,12 @@
 		box-shadow: 0 0 0 0 rgba(142, 68, 173, 0);
 	}
 }
+.carousel-item {
+	height: 90vh;
+	min-height: 350px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  }
